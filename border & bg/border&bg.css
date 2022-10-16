@@ -1,0 +1,25 @@
+.paragraph{
+    background-color: red;
+    height: 70px;
+    border: 5px solid blue;
+    border-radius: 20px;
+    width: 80%;
+    text-align: center;
+    padding-top: 20px;
+   } 
+   
+   .secoundpara{
+    color: white;
+    font-size: 25px;
+    height: 700px;
+    width: 650px;
+    background-image: url(./1304.jpg);
+    text-decoration: bisque;
+    border: 5px solid red;
+   }
+
+   h1{
+    background-color: aqua;
+    border: 5px solid red ;
+   }
+  
