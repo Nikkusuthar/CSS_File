@@ -1,0 +1,22 @@
+#box{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    /* transition-property: background-color;
+    transition-duration: 5s;
+    transition-timing-function: ease-out;
+    transition-delay: 1s; */
+    transition: all 1s ease-in-out .3s;
+    }
+
+    #box:hover{
+     background-color: black;
+     height: 400px;
+     width: 400px;
+     border-radius: 45px;
+     color: white;
+     font-size: 30px;
+    }
